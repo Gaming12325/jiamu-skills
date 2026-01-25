@@ -26,6 +26,7 @@
 | [**magazine-layout**](./magazine-layout/) | 🎨 内容设计 | 杂志排版工具 - 将文本转换为精美的杂志风格HTML页面 | 12种视觉风格，支持PDF导出 |
 | [**peers-advisory-group**](./peers-advisory-group/) | 💡 决策咨询 | 私董会专家助手 - 通过4位顶级商业领袖的视角分析问题 | 商业决策、战略规划、问题诊断 |
 | [**video-downloader**](./video-downloader/) | 📹 工具类 | 通用视频下载器 - 支持1000+网站的视频下载 | YouTube、Bilibili、Twitter、TikTok等 |
+| [**gif-splitter**](./gif-splitter/) | 🖼️ 工具类 | GIF动图切分器 - 将超限GIF智能拆分成多个小文件 | 微信公众号上传、帧数限制、批量处理 |
 
 ### 🌟 核心特色
 
@@ -95,6 +96,23 @@ Skill：识别场景 → 收集信息 → 生成邮件 + 提示词
 - 🎵 音频提取（MP3格式）
 - 📝 字幕下载
 - 🔄 WebM自动转MP4
+
+---
+
+#### 🖼️ GIF Splitter - GIF动图切分器
+
+**一句话描述**：解决微信公众号"帧数超过300帧"上传限制。
+
+**核心价值**：
+- ✂️ **智能切分**：自动检测帧数，均匀拆分成多个文件
+- 📊 **信息查看**：支持查看GIF帧数、大小、尺寸等信息
+- 📁 **批量处理**：支持整个文件夹批量切分
+- ⚙️ **灵活配置**：可自定义最大帧数、输出目录
+
+**适用场景**：
+- 微信公众号上传GIF提示"帧数超过300帧"
+- 需要将长GIF拆分成多个短GIF
+- 批量处理多个超限GIF文件
 
 ---
 
@@ -211,6 +229,25 @@ Skill：
 
 ---
 
+#### GIF Splitter
+
+**触发方式**：
+- `"GIF帧数超限"`、`"切分GIF"`、`"gif splitter"`
+
+**示例**：
+```
+用户：我的GIF上传微信公众号提示帧数超过300帧
+
+Skill：
+📊 检测帧数 → ✂️ 智能切分 → 💾 保存文件
+
+输出：
+  ✓ 动画_第1部分.gif: 247 帧, 2.11 MB
+  ✓ 动画_第2部分.gif: 247 帧, 1.89 MB
+```
+
+---
+
 ### 📁 项目结构
 
 ```
@@ -245,6 +282,10 @@ jiamu-skills/
 │   │   └── download.py          # 下载脚本
 │   └── references/
 │       └── platform-tips.md
+├── gif-splitter/                # GIF动图切分器
+│   ├── SKILL.md                 # 核心指令
+│   └── scripts/
+│       └── split_gif.py         # 切分脚本
 ├── LICENSE
 └── README.md
 ```
@@ -287,6 +328,7 @@ MIT License - 详见 [LICENSE](./LICENSE)
 
 ### 📊 版本历史
 
+- **v1.4.0** (2026-01-26) - 新增 gif-splitter（GIF动图切分器）
 - **v1.3.0** (2026-01-23) - 新增 sales-ai-assistant（25个销售场景）
 - **v1.2.0** - 新增 video-downloader
 - **v1.1.0** - 新增 magazine-layout 和 peers-advisory-group
@@ -314,6 +356,7 @@ Made with ❤️ by jiamu
 | [**magazine-layout**](./magazine-layout/) | 🎨 Content Design | Transform text into beautiful magazine-style HTML pages | 12 visual styles with PDF export |
 | [**peers-advisory-group**](./peers-advisory-group/) | 💡 Decision Making | Virtual advisory board with 4 business legends | Strategic decisions, problem analysis |
 | [**video-downloader**](./video-downloader/) | 📹 Utility | Universal video downloader supporting 1000+ websites | YouTube, Bilibili, Twitter, TikTok, etc. |
+| [**gif-splitter**](./gif-splitter/) | 🖼️ Utility | GIF splitter for frame limit issues | WeChat upload, batch processing |
 
 ### 🌟 Key Features
 
@@ -421,6 +464,7 @@ AI tools and productivity enthusiast
 
 ### 📊 Version History
 
+- **v1.4.0** (2026-01-26) - Added gif-splitter (GIF frame splitter)
 - **v1.3.0** (2026-01-23) - Added sales-ai-assistant (25 sales scenarios)
 - **v1.2.0** - Added video-downloader
 - **v1.1.0** - Added magazine-layout and peers-advisory-group
